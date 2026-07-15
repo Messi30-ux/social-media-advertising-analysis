@@ -45,8 +45,7 @@ Conversion rate is uniform across all channels and  audiences, meaning the probl
 
 ## About
 Mercy Oladipo | Digital Marketing Data Analyst
-Specializing in helping African SMBs understand 
-Why isn't their online presence converting?
+Helping African SMBs understand why their online presence isn't converting
 LinkedIn: www.linkedin.com/in/mercy-oladipo
 
 Link the Excel file analysed: https://docs.google.com/spreadsheets/d/1i2og4rH6ZXl8JfmlJ46FI3ajwuSvjAej/edit?usp=drive_link&ouid=101078482866108437878&rtpof=true&sd=true
